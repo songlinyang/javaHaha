@@ -12,7 +12,7 @@ public class VariableDemo {
 		float ff1 = (float)3.14;
 		//×Ö·ûÐÍ
 		char hh = 'a';
-		String kk = "adbc";
+		String kk = "adbc1";
 		int [] arr1 = new int [4];
 		int a = 1;
 		int b =2;
